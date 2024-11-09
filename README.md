@@ -7,8 +7,9 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JinKyeong-Seo&count_private=true&theme=vue" alt="JinKyeong's GitHub stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JinKyeong-Seo&count_private=true&theme=vue&hide_rank=true&show_icons=true" alt="JinKyeong's GitHub stats" />
 </a>
+
 
 ### 🔨STACKS
 
